@@ -2,8 +2,7 @@
 
 This repository provides a structured, categorized list of XAI methods across multiple paradigms such as attribution-based, concept-based, example-based, attention-based, and others.
 
-## 📁 Contents
-- `Enhanced_XAI_Methods_Categorized.xlsx`: Tabular format of XAI methods, categories, and references.
+
 
 ## 📚 Categories Covered
 - Attribution-Based
